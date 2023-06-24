@@ -1,8 +1,9 @@
 # CS-405-Secure-Coding
 CS-405 Secure Coding
+
 This class has taught me more in-depth ways of preventing security and data breaches.
 
-•The adoption of a secure coding standard is very important. The development team should know a series of coding standards that they need to be aware of and implement into everything that is being developed. Each of these standards are chosen to prevent the potential vulnerabilities that may arise during development. Additionally, actively applying secure coding throughout the development process will prevent any vulnerabilities that would fall through the cracks and be missed if secure coding was only addressed at the end of development. 
+The adoption of a secure coding standard is very important. The development team should know a series of coding standards that they need to be aware of and implement into everything that is being developed. Each of these standards are chosen to prevent the potential vulnerabilities that may arise during development. Additionally, actively applying secure coding throughout the development process will prevent any vulnerabilities that would fall through the cracks and be missed if secure coding was only addressed at the end of development. 
 
 It’s important when looking at the assessment of risks that we consider the risk, as well as the severity, likelihood of it occurring, and lastly the remediation cost. This criterion will allow us to categorize the priority of the risks and address the ones that are more costly and have a high probability of occurring, first, and then address the others. By applying this logic, the company can decrease the time and money spent on a risk that could have been prevented but was left vulnerable and successfully hacked.
 
